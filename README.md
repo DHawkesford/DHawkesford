@@ -1,4 +1,4 @@
-###Hi there 👋
+Hi there 👋
 
 - 🌱 I'm currently learning software development with the School of Code! 
 - 😄 Pronouns: he/him
