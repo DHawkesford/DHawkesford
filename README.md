@@ -1,5 +1,3 @@
-<div style="text-align:center">
-
 Hi there 👋 I'm Dan Hawkesford
 
 <img src="photo.jpg" alt="Me (Dan Hawkesford) drinking red tea in a Bucharest tea house" style="height: 250px;" />
@@ -30,9 +28,7 @@ Reach me at:
 
 [<img src="LinkedIn.png" alt="LinkedIn logo" style="height: 13px" /> LinkedIn](https://www.linkedin.com/in/daniel-hawkesford/)
 
-<!-- ![A counter showing the number of visitors to this page](https://visitor-badge.glitch.me/badge?page_id=dhawkesford.dhawkesford&left_color=blue&right_color=black) -->
-
-</div>
+![A counter showing the number of visitors to this page](https://visitor-badge.glitch.me/badge?page_id=dhawkesford.dhawkesford&left_color=blue&right_color=black)
 
 <!--
 **DHawkesford/DHawkesford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
