@@ -30,6 +30,8 @@ Reach me at:
 
 ![A counter showing the number of visitors to this page](https://visitor-badge.glitch.me/badge?page_id=dhawkesford.dhawkesford&left_color=blue&right_color=black)
 
+![A badge showing my score and rank on Codewars](https://www.codewars.com/users/DHawkesford/badges/micro)
+
 <!--
 **DHawkesford/DHawkesford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
