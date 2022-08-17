@@ -22,6 +22,25 @@ When I'm not coding, you can find me running around the parks of London and root
 
 ---
 
+My current tech:
+
+![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Material UI](https://img.shields.io/badge/mui-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Auth0](https://img.shields.io/badge/auth0-EB5424.svg?style=for-the-badge&logo=auth0&logoColor=white)
+
+---
+
 Reach me at:
 
 [<img src="Twitter.svg" alt="Twitter logo" style="height: 13px" /> Twitter @d_hawkesford](https://twitter.com/d_hawkesford)
@@ -29,7 +48,6 @@ Reach me at:
 [<img src="LinkedIn.png" alt="LinkedIn logo" style="height: 13px" /> LinkedIn](https://www.linkedin.com/in/daniel-hawkesford/)
 
 ![A counter showing the number of visitors to this page](https://visitor-badge.glitch.me/badge?page_id=dhawkesford.dhawkesford&left_color=blue&right_color=black)
-
 ![A badge showing my score and rank on Codewars](https://www.codewars.com/users/DHawkesford/badges/micro)
 
 <!--
