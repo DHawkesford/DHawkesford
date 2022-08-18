@@ -6,7 +6,7 @@ Hi there 👋 I'm Dan Hawkesford
 
 ---
 
-I'm a student software developer from London, studying with Cohort 12 at [School of Code](https://www.schoolofcode.co.uk/), a free coding bootcamp! 
+I'm a student software developer from London, and recently graduated with Cohort 12 at [School of Code](https://www.schoolofcode.co.uk/), a free, 16-week, full-time bootcamp teaching full stack software development! 
 
 When I'm not coding, you can find me running around the parks of London and rooting around its many bookshops. 🏃‍♂️📚
 
