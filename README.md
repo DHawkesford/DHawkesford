@@ -50,6 +50,7 @@ Reach me at:
 ---
 
 ![A counter showing the number of visitors to this page](https://visitor-badge.glitch.me/badge?page_id=dhawkesford.dhawkesford&left_color=blue&right_color=black)
+
 ![A badge showing my score and rank on Codewars](https://www.codewars.com/users/DHawkesford/badges/micro)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dhawkesford&hide=stars,issues&count_private=true&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
