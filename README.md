@@ -16,7 +16,7 @@ When I'm not coding, you can find me running around the parks of London and root
 
 🌱 I'm currently learning software development with the School of Code!
 
-🔭 I’m currently working on a photography ranking website, aimed at encouraging people to keep active 
+🔭 I’m currently working on a photography ranking website, aimed at encouraging people to keep active ([Site](https://the-wall-dan-blake.netlify.app/) | [Repo](https://github.com/DHawkesford/the-wall))
 
 ⚡ Fun fact: I'm an avid runner and currently training for a half-marathon in... the future at some point!
 
