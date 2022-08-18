@@ -6,7 +6,7 @@ Hi there 👋 I'm Dan Hawkesford
 
 ---
 
-I'm a student software developer from London, and recently graduated with Cohort 12 at [School of Code](https://www.schoolofcode.co.uk/), a free, 16-week, full-time bootcamp teaching full stack software development! 
+I'm a student software developer from London, and in August 2022 I graduated with Cohort 12 at [School of Code](https://www.schoolofcode.co.uk/), a free, 16-week, full-time bootcamp teaching full stack software development! 
 
 When I'm not coding, you can find me running around the parks of London and rooting around its many bookshops. 🏃‍♂️📚
 
@@ -14,7 +14,7 @@ When I'm not coding, you can find me running around the parks of London and root
 
 😄 Pronouns: he/him
 
-🌱 I'm currently learning software development with the School of Code!
+🌱 In August 2022 I graduated the [School of Code](https://www.schoolofcode.co.uk/) full stack software development bootcamp!
 
 🔭 I’m currently working on a photography ranking website, aimed at encouraging people to keep active ([Site](https://the-wall-dan-blake.netlify.app/) | [Repo](https://github.com/DHawkesford/the-wall))
 
