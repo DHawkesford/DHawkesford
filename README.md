@@ -1,6 +1,6 @@
 Hi there 👋 I'm Dan Hawkesford
 
-![Me (Dan Hawkesford) drinking red tea in a Bucharest tea house](./rsz_photo.jpg)
+![Me (Dan Hawkesford) drinking red tea in a Bucharest tea house](./photo.jpg)
 
 ##### *Drinking red tea in a Bucharest tea house 🙂☕*
 
