@@ -16,7 +16,7 @@ When I'm not coding, you can find me running around the parks of London and root
 
 🌱 In August 2022 I graduated the [School of Code](https://www.schoolofcode.co.uk/) full stack software development bootcamp!
 
-🔭 I’m currently working on a photography ranking website, aimed at encouraging people to keep active ([Site](https://the-wall-dan-blake.netlify.app/) | [Repo](https://github.com/DHawkesford/the-wall))
+🔭 I’m currently working on a photography ranking website, aimed at encouraging people to keep active ([Site](https://the-wall-app.netlify.app/) | [Repo](https://github.com/DHawkesford/the-wall))
 
 ⚡ Fun fact: I'm an avid runner and currently training for a half-marathon in... the future at some point!
 
