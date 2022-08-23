@@ -10,6 +10,8 @@ I'm a student software developer from London, and in August 2022 I graduated wit
 
 When I'm not coding, you can find me running around the parks of London and rooting around its many bookshops. 🏃‍♂️📚
 
+Reach me on [LinkedIn ![LinkedIn logo](./LinkedIn.png)](https://www.linkedin.com/in/daniel-hawkesford/)
+
 ---
 
 😄 Pronouns: he/him
