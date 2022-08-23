@@ -10,7 +10,7 @@ I'm a student software developer from London, and in August 2022 I graduated wit
 
 When I'm not coding, you can find me running around the parks of London and rooting around its many bookshops. 🏃‍♂️📚
 
-Reach me on [LinkedIn ![LinkedIn logo](./LinkedIn.png)](https://www.linkedin.com/in/daniel-hawkesford/)
+Reach me on [LinkedIn](https://www.linkedin.com/in/daniel-hawkesford/).
 
 ---
 
@@ -42,14 +42,6 @@ My current tech:
 ![Netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Auth0](https://img.shields.io/badge/auth0-EB5424.svg?style=for-the-badge&logo=auth0&logoColor=white)
-
----
-
-Reach me at:
-
-[<img src="Twitter.svg" alt="Twitter logo" style="height: 13px" /> Twitter @d_hawkesford](https://twitter.com/d_hawkesford)
-
-[<img src="LinkedIn.png" alt="LinkedIn logo" style="height: 13px" /> LinkedIn](https://www.linkedin.com/in/daniel-hawkesford/)
 
 ---
 
