@@ -20,7 +20,7 @@ Reach me on [LinkedIn](https://www.linkedin.com/in/daniel-hawkesford/).
 
 🔭 I’m currently working on a photography ranking website, aimed at encouraging people to keep active ([Site](https://the-wall-app.netlify.app/) | [Repo](https://github.com/DHawkesford/the-wall))
 
-👯 I recently published an [NPM package](https://www.npmjs.com/package/linkclipper) with [@AureaFlamma](https://github.com/AureaFlamma) that helps developers to easily shorten any URLs that they want to display to users in their apps
+👯 I recently published an NPM package ([Site](https://www.npmjs.com/package/linkclipper) | [Repo](https://github.com/DHawkesford/LinkClipper)) with [@AureaFlamma](https://github.com/AureaFlamma) that helps developers to easily shorten any URLs that they want to display to users in their apps
 
 🌱 I’m currently learning more about SQL and Authentication/Authorisation, and documenting my progress as I go along ([Repo](https://github.com/DHawkesford/Self-learning-Journal-SQL-Authentication-Authorisation))
 
