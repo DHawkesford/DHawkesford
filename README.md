@@ -22,9 +22,7 @@ Reach me on [LinkedIn](https://www.linkedin.com/in/daniel-hawkesford/).
 
 👯 I recently published an NPM package with [@AureaFlamma](https://github.com/AureaFlamma) that helps developers to easily shorten any URLs that they want to display to users in their apps ([Site](https://www.npmjs.com/package/linkclipper) | [Repo](https://github.com/DHawkesford/LinkClipper))
 
-<!--
-🌱 I’m currently learning more about SQL and Authentication/Authorisation, and documenting my progress as I go along ([Repo](https://github.com/DHawkesford/Self-learning-Journal-SQL-Authentication-Authorisation))
--->
+🌱 I’m currently learning more about Test-Driven Development by following along with *[Mastering React Test-Driven Development](https://github.com/PacktPublishing/Mastering-React-Test-Driven-Development-Second-Edition)* by Daniel Irvine ([@dirv](https://github.com/dirv)) and documenting my progress as I go along ([Repo](https://github.com/DHawkesford/Mastering-React-Test-Driven-Development))
 
 ⚡ Fun fact: I'm an avid runner and currently training for my next half-marathon!
 
