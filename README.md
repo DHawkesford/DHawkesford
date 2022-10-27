@@ -24,7 +24,7 @@ Reach me on [LinkedIn](https://www.linkedin.com/in/daniel-hawkesford/).
 
 🌱 I’m currently learning more about Test-Driven Development by following along with *[Mastering React Test-Driven Development](https://github.com/PacktPublishing/Mastering-React-Test-Driven-Development-Second-Edition)* by Daniel Irvine ([@dirv](https://github.com/dirv)) and documenting my progress as I go along ([Repo](https://github.com/DHawkesford/Mastering-React-Test-Driven-Development))
 
-⚡ Fun fact: I'm an avid runner and currently training for my next half-marathon!
+⚡ Fun fact: I'm an avid runner and currently training for my next half-marathon - add me on [Strava](https://www.strava.com/athletes/691392)!
 
 ---
 
