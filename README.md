@@ -22,7 +22,7 @@ Reach me on [LinkedIn](https://www.linkedin.com/in/daniel-hawkesford/).
 
 👯 I recently published an NPM package with [@AureaFlamma](https://github.com/AureaFlamma) that helps developers to easily shorten any URLs that they want to display to users in their apps ([Site](https://www.npmjs.com/package/linkclipper) | [Repo](https://github.com/DHawkesford/LinkClipper))
 
-🌱 I’m currently learning more about Angular and Test-Driven Development by following along with *[Mastering React Test-Driven Development](https://github.com/PacktPublishing/Mastering-React-Test-Driven-Development-Second-Edition)* by Daniel Irvine ([@dirv](https://github.com/dirv)), and applying what I learn to a Pokédex project built in Angular ([Site](https://dangular-pokedex.netlify.app/) | [Repo](https://github.com/DHawkesford/angular-pokedex)) 
+🌱 I’m currently learning more about Angular and Test-Driven Development by following along with *[Mastering React Test-Driven Development](https://github.com/PacktPublishing/Mastering-React-Test-Driven-Development-Second-Edition)* by Daniel Irvine ([@dirv](https://github.com/dirv)), and applying what I learn to a Pokédex project that I am building in Angular ([Site](https://dangular-pokedex.netlify.app/) | [Repo](https://github.com/DHawkesford/angular-pokedex)) 
 
 ⚡ Fun fact: I'm an avid runner and currently training for my next half-marathon - add me on [Strava](https://www.strava.com/athletes/691392)!
 
