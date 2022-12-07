@@ -1,11 +1,5 @@
 Hi there 👋 I'm Dan Hawkesford
 
-![Me (Dan Hawkesford) drinking red tea in a Bucharest tea house](./photo.jpg)
-
-##### *Drinking red tea in a Bucharest tea house 🙂☕*
-
----
-
 I'm a student software developer from London, and in August 2022 I graduated with Cohort 12.0 at [School of Code](https://www.schoolofcode.co.uk/), a free, 16-week, full-time bootcamp teaching full stack software development! 
 
 When I'm not coding, you can find me running around the parks of London and rooting around its many bookshops. 🏃‍♂️📚
