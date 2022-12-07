@@ -1,8 +1,6 @@
-Hi there 👋 I'm Dan Hawkesford
+Hi there 👋 I'm Dan Hawkesford.
 
 I'm a student software developer from London, and in August 2022 I graduated with Cohort 12.0 at [School of Code](https://www.schoolofcode.co.uk/), a free, 16-week, full-time bootcamp teaching full stack software development! 
-
-When I'm not coding, you can find me running around the parks of London and rooting around its many bookshops. 🏃‍♂️📚
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/daniel-hawkesford/).
 
@@ -18,7 +16,7 @@ Reach me on [LinkedIn](https://www.linkedin.com/in/daniel-hawkesford/).
 
 🌱 I’m currently learning more about Angular and Test-Driven Development by following along with *[Mastering React Test-Driven Development](https://github.com/PacktPublishing/Mastering-React-Test-Driven-Development-Second-Edition)* by Daniel Irvine ([@dirv](https://github.com/dirv)), and applying what I learn to a Pokédex project that I am building in Angular ([Site](https://dangular-pokedex.netlify.app/) | [Repo](https://github.com/DHawkesford/angular-pokedex)) 
 
-⚡ Fun fact: I'm an avid runner and currently training for my next half-marathon - add me on [Strava](https://www.strava.com/athletes/691392)!
+⚡ When I'm not coding, you can find me running around the parks of London and rooting through its bookshops. Add me on [Strava](https://www.strava.com/athletes/691392)🏃‍♂️ / [StoryGraph](https://app.thestorygraph.com/profile/dhawkesford)📚
 
 ---
 
