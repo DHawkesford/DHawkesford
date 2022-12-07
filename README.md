@@ -1,14 +1,10 @@
-Hi there 👋 I'm Dan Hawkesford.
+Hi there 👋 I'm Dan Hawkesford (he/him).
 
 I'm a student software developer from London, and in August 2022 I graduated with Cohort 12.0 at [School of Code](https://www.schoolofcode.co.uk/), a free, 16-week, full-time bootcamp teaching full stack software development! 
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/daniel-hawkesford/).
 
 ---
-
-😄 Pronouns: he/him
-
-🎓 In August 2022 I graduated the [School of Code](https://www.schoolofcode.co.uk/) full stack software development bootcamp!
 
 🔭 I recently built a photography ranking website, aimed at encouraging people to keep active ([Site](https://the-wall-app.netlify.app/) | [Repo](https://github.com/DHawkesford/the-wall))
 
