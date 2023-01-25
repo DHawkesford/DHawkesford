@@ -1,7 +1,5 @@
 Hi there 👋 I'm Dan Hawkesford (he/him).
 
-I'm a student software developer from London, and in August 2022 I graduated with Cohort 12.0 at [School of Code](https://www.schoolofcode.co.uk/), a free, 16-week, full-time bootcamp teaching full stack software development! 
-
 Reach me on [LinkedIn](https://www.linkedin.com/in/daniel-hawkesford/).
 
 ---
